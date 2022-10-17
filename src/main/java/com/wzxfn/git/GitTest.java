@@ -13,5 +13,6 @@ public class GitTest {
         System.out.println("gitee test");
         System.out.println("gitee test2");
         System.out.println("push test in 2022-10-17");
+        System.out.println("push test2 in 2022-10-17");
     }
 }
